@@ -1,1 +1,0 @@
-A blob is the smallest part of a git object.
