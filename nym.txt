@@ -1,0 +1,1 @@
+NYM is a layer 0 privacy token designed to protect privacy of metadata.
